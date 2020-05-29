@@ -5,9 +5,9 @@
   Total Participants : 233
   Workshop Date : 15th September 2019 to 16th September 2019
 
-  The students with the following certificate ID on their Team Unwired Pre Tathva 19 certificate has been verified by Team Unwired
+  The students with the following certificate ID on their Pre Tathva 19 certificate has been verified by Team Unwired
   
-  The 2 Day Worshop was on developing a voice controlled robot using Arduino and MIT App Inventor
+  The 2 Day Workshop was on modelling and developing a voice controlled robot using Arduino and MIT App Inventor
 
   The certificates and this verification record is automatically generated ( for more information and certificate corrections contact : aravindskrishnandev@gmail.com ) 
 
