@@ -1823,10 +1823,18 @@ body {
 .cid-s0GDmgLqLH .dropdown-item:hover {
   color: #149dcc !important;
 }
+.cid-s0JC9CXKwo {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #232323;
+}
+.cid-s0JC9CXKwo H2 {
+  text-align: center;
+}
 .cid-s0GLXlz86K {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #232323;
+  background-image: url("../../../assets/images/dsc-563-2000x1333.jpg");
 }
 .cid-s0GLXlz86K h2 {
   text-align: left;
