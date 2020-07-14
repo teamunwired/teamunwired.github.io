@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "teamunwiredfsae",
-    "currentPage": "page2.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2949,6 +2949,24 @@
             "slides__showBullets": true,
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/img-5025-2000x1123.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Mithun Manog",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Your passion inspired us, and your words kept us going. You went above and beyond the call of duty to help us through everything. <i>\"Scene dark aayal pinne onnum nokanda, nammku set aakam\"</i>&nbsp;, the words that kept us going, your optimism and the chill attitude made you one of a kind. Your spirit kept us moving. Thankyou for being there for us, thankyou for being everything you are. We will miss you and we will remember you ❤<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.7"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/subin-2000x1123.jpg",
                 "active": false,
                 "showButtons": false,
@@ -2962,7 +2980,7 @@
                 "title": "Subin Raj T Sunil",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "The one who taught us that performance and patience goes hand in hand. The gentle one who was always through thick and thin with the team. None can match your calmness and perseverance. Thank you for sharing the knowledge and experience with us. Thanks for being with us, You Gem. May the downforce always be with you .We will miss you ❤",
+                "text": "The one who taught us that performance and patience goes hand in hand. The gentle one who was always through thick and thin with the team. None can match your calmness and perseverance. Thank you for sharing the knowledge and experience with us. Thanks for being with us, You Gem. May the downforce always be with you .We will miss you and we will remember you ❤&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -2980,7 +2998,7 @@
                 "title": "Ashwanth V",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "One who always kept the team optimistic with his cool attitude . As said by one of our team member \"<i>thudakhathil okke captain alambu aakum vicharichu pakshe avan aalu pwoliya</i>\",we never said this on your face but whatever we achieved last year had &nbsp;to do with the way you led us.We will miss you ❤",
+                "text": "One who always kept the team optimistic with his cool attitude . As said by one of our team member \"<i>thudakhathil okke captain alambu aakum vicharichu pakshe avan aalu pwoliya</i>\",we never said this on your face but whatever we achieved last year had &nbsp;to do with the way you led us.We will miss you and we will remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -2998,7 +3016,7 @@
                 "title": "Manu CL",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "\"Ente Manu anna, ningale mass aanu\" and its literally true. You have saved us and our team countless times, from during fund shortages to chassis welding. Your presence itself is a positive vibe to everyone. We will miss you ❤",
+                "text": "\"Ente Manu anna, ningale mass aanu\" and its literally true. You have saved us and our team countless times, from during fund shortages to chassis welding. Your presence itself is a positive vibe to everyone. We will miss you and we will remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3016,7 +3034,7 @@
                 "title": "Kiran KT",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Even now we can't beleive that you were our senior. Such a down to earth person that made us always beleive that he was one among us.&nbsp;<i>KT ISHTAM</i> this is more than enough to describe you. We will miss you ❤",
+                "text": "Even now we can't beleive that you were our senior. Such a down to earth person that made us always beleive that he was one among us.&nbsp;<i>KT ISHTAM</i> this is more than enough to describe you. We will miss you and we will remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3034,7 +3052,7 @@
                 "title": "Revanth Reddy",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "The brotherly figure for everyone. The one who motivates you if you are down, the purest soul with the heart of gold. <i>\"You dont care what others say, because I know you can\"</i>, thank you for all the midnight motivation you gave us. We will miss you ❤",
+                "text": "The brotherly figure for everyone. The one who motivates you if you are down, the purest soul with the heart of gold. <i>\"You dont care what others say, because I know you can\"</i>, thank you for all the midnight motivation you gave us. We will miss you and we will remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3052,7 +3070,7 @@
                 "title": "V Ganesh",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Hardwork and determination is what we learned from you. You taught us that action speaks for itself, and dedication never goes unrewarded. But it would be a crime to stop there, so we are including your catch phrase : \"<i>Enti mama.. Ila chesar entraaa\"</i> . &nbsp;We will miss you ❤",
+                "text": "Hardwork and determination is what we learned from you. You taught us that action speaks for itself, and dedication never goes unrewarded. But it would be a crime to stop there, so we are including your catch phrase : \"<i>Enti mama.. Ila chesar entraaa\"</i> . &nbsp;We will miss you and we will remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3070,7 +3088,7 @@
                 "title": "Harris Mubeen&nbsp;",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "You gave us the motivation to overcome any hurdles by approaching the situation from the worst case scenario and then rectifying each and every negatives to convert it to a good situation.&nbsp;We will miss you ❤",
+                "text": "You gave us the motivation to overcome any hurdles by approaching the situation from the worst case scenario and then rectifying each and every negatives to convert it to a good situation.&nbsp;We will miss you and we will remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3088,7 +3106,7 @@
                 "title": "Richard",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Even though you were not with us during competition you are good mentor and good designer that lead us to win. <i>\" Ithokke ninaku easy alle, nammal okke pavam</i>\" is the single line which shows his down to earth attitude . We will miss you ❤",
+                "text": "Even though you were not with us during competition you are good mentor and good designer that lead us to win. <i>\" Ithokke ninaku easy alle, nammal okke pavam</i>\" is the single line which shows his down to earth attitude . We will miss you and we will remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3106,7 +3124,7 @@
                 "title": "Akshay Prasad",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Kind and pleasant, easily the first words that pop into our minds when thinking about you. Your support and willingness to guide us has been a motivation to all. The fact that your CGPA shot up after joining unwired is still an unsolved mystery. We will miss you ❤",
+                "text": "Kind and pleasant, easily the first words that pop into our minds when thinking about you. Your support and willingness to guide us has been a motivation to all. The fact that your CGPA shot up after joining unwired is still an unsolved mystery. We will miss you and remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3124,7 +3142,7 @@
                 "title": "Vaishnav MS",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Under his quiet demeanour, lies someone who we have come to admire for his knowledge and philosophy of literally anything. Your dedication to the team and your love for 'afreen afreen' are difficult to match. <i>\"Ee padathil kanune vandi kattapurathu aanu ennu ulla satyam njan aarodu paraym\" - &nbsp;</i>Best describe his current state. We will miss you ❤",
+                "text": "Under his quiet demeanour, lies someone who we have come to admire for his knowledge and philosophy of literally anything. Your dedication to the team and your love for 'afreen afreen' are difficult to match. <i>\"Ee padathil kanune vandi kattapurathu aanu ennu ulla satyam njan aarodu paraym\" - &nbsp;</i>Best describe his current state. We will miss you and we will remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3142,7 +3160,7 @@
                 "title": "Prajwal S",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Prajwal, aka Aashaan, as the name suggests the all-in-all multipurpose wrench in the Box, shipped from the saharas. He ain't no human, he's the manual for the freshmen in the ditch, to have a vision, to have dedication, to be skilled, to be fun and tangible, We will miss you ❤",
+                "text": "Prajwal, aka Aashaan, as the name suggests the all-in-all multipurpose wrench in the Box, shipped from the saharas. He ain't no human, he's the manual for the freshmen in the ditch, to have a vision, to have dedication, to be skilled, to be fun and tangible, We will miss you and remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3160,7 +3178,7 @@
                 "title": "Danish V",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "The first time we met you, you seemed like an innocent and introverted person, but then we learnt it was far from the truth. We have seen you work hard with, no hesitation whatsoever. You are dedicated to everything you do, and help us before we ask you to. You are fun to be around, and we love hearing you rave about your mom's cooking. We have made so many memories together. Nothing compares to your brotherly love. Thank you for being you. We will miss you ❤",
+                "text": "The first time we met you, you seemed like an innocent and introverted person, but then we learnt it was far from the truth. We have seen you work hard with, no hesitation whatsoever. You are dedicated to everything you do, and help us before we ask you to. You are fun to be around, and we love hearing you rave about your mom's cooking. We have made so many memories together. Nothing compares to your brotherly love. Thank you for being you. We will miss you and remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3178,7 +3196,7 @@
                 "title": "Rahul Krishnan",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Epically charismatic person who just spreads energy throughout the group, cheers everyone up and finds a way out of every situation. <i>\"Njan chali adikum ennu parayune verum apavadam aanu\"</i>. We will miss you ❤<br>",
+                "text": "Epically charismatic person who just spreads energy throughout the group, cheers everyone up and finds a way out of every situation. <i>\"Njan chali adikum ennu parayune verum apavadam aanu\"</i>. We will miss you and we will remember you ❤<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3196,7 +3214,7 @@
                 "title": "Vinayak KP",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "The humble soul that never dissapoints, one who sees the human in everyone, the offical welding guru of the entire unwired family, for him the place was more than a workspace, it was a second home. A pillar of support ,we hope you constantly indulge in the pursuit of your first love, automobile enlightenment. <i>\"Chilavu chothichal orikalum patilla ennu parayathe ore oru aal\"</i>. We will miss you ❤<br>",
+                "text": "The humble soul that never dissapoints, one who sees the human in everyone, the offical welding guru of the entire unwired family, for him the place was more than a workspace, it was a second home. A pillar of support ,we hope you constantly indulge in the pursuit of your first love, automobile enlightenment. <i>\"Chilavu chothichal orikalum patilla ennu parayathe ore oru aal\"</i>. We will miss you and we will remember you ❤<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3214,7 +3232,7 @@
                 "title": "Siddarth SP",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "The most helpful person we have ever met. People often expect you to be timid, because of your brilliance in academics, but conversations with you are deep and meaningful. We admire your 'carpe diem' attitude towards life. Thank you for being such a gem of a person. We will miss you ❤",
+                "text": "The most helpful person we have ever met. People often expect you to be timid, because of your brilliance in academics, but conversations with you are deep and meaningful. We admire your 'carpe diem' attitude towards life. Thank you for being such a gem of a person. We will miss you and we will remember you ❤&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3232,7 +3250,7 @@
                 "title": "Jerin Johny",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "An inspirational character who can be chill or terror as the circumstances demand, who may not be the guy to take up initiatives but certainly the one who does jobs assigned to him in the best possible way, who is  a guide in times of hardships and a friend in times of prosperity. We always counted on you. We will miss you ❤<br>",
+                "text": "An inspirational character who can be chill or terror as the circumstances demand, who may not be the guy to take up initiatives but certainly the one who does jobs assigned to him in the best possible way, who is  a guide in times of hardships and a friend in times of prosperity. We always counted on you. We will miss you and we will remember you ❤<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3250,25 +3268,7 @@
                 "title": "Mohammed Aseem P",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "We have always admired how much work and dedication you put into everything you do. You are gifted, understanding, charismatic and a genuine soul, with amazing leadership skills. An understanding person, a humble student, a brilliant human being and above all a friend and mentor. Thank you for being an inspiration for all of us. We will miss your advice and your guidance. We wish you all the very best.. We will miss you ❤<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.7"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-5025-2000x1123.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "Mithun Manog",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Your passion inspired us, and your words kept us going. You went above and beyond the call of duty to help us through everything. <i>\"Scene dark aayal pinne onnum nokanda, nammku set aakam\"</i>&nbsp;, the words that kept us going, your optimism and the chill attitude made you one of a kind. Your spirit kept us moving. Thankyou for being there for us, thankyou for being everything you are. We will miss you ❤<br>",
+                "text": "We have always admired how much work and dedication you put into everything you do. You are gifted, understanding, charismatic and a genuine soul, with amazing leadership skills. An understanding person, a humble student, a brilliant human being and above all a friend and mentor. Thank you for being an inspiration for all of us. We will miss your advice and your guidance. We wish you all the very best.. We will miss you and we will remember you ❤<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3286,7 +3286,7 @@
                 "title": "Akhil PP",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "you have always been brother figure for all of us. You are playful and light-hearted, you make workshop sessions bearable and enjoyable. People often call you the 'life of the party' and when we talk to you, we know why. Keep shining and keep being a beacon of hope.We will miss you ❤<br>",
+                "text": "you have always been brother figure for all of us. You are playful and light-hearted, you make workshop sessions bearable and enjoyable. People often call you the 'life of the party' and when we talk to you, we know why. Keep shining and keep being a beacon of hope. We will miss you and we will remember you ❤<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3304,7 +3304,7 @@
                 "title": "Mihil Jaco George&nbsp;",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "The coolest member with insane driving skills, Mihil has not failed to awe us with his superpowers of accurate gut feeling and intution.. <i>\"Photo kandu pedikanda, aalu oru lolan aanu\".&nbsp;</i>We will miss you ❤<br>",
+                "text": "The coolest member with insane driving skills, Mihil has not failed to awe us with his superpowers of accurate gut feeling and intution.. <i>\"Photo kandu pedikanda, aalu oru lolan aanu\"</i>.We will miss you and we will remember you ❤<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3322,7 +3322,7 @@
                 "title": "Aswin Sasikumar",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "He used to be the resident smooth talker of the team. He may not be the best worker around but he more than makes up with his charm and wit. This guy with his magic always lit throughout the journey. What else can you possibly ask for. We will miss you ❤<br>",
+                "text": "He used to be the resident smooth talker of the team. He may not be the best worker around but he more than makes up with his charm and wit. This guy with his magic always lit throughout the journey. What else can you possibly ask for. We will miss you and we will remember you ❤<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3340,7 +3340,7 @@
                 "title": "Arun Sebastian",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Not every captain can motivate and inspire the team and you are amongst the few focused and dedicated  captains who taught us only  perseverance and hardwork can lead to sucess. The team will not be same without you .Thankyou very much for giving us your best. We will miss you ❤",
+                "text": "Not every captain can motivate and inspire the team and you are amongst the few focused and dedicated  captains who taught us only  perseverance and hardwork can lead to sucess. The team will not be same without you .Thankyou very much for giving us your best. We will miss you and we will remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3358,7 +3358,7 @@
                 "title": "Midulaj Safreen",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "He is the multi talented star of the suspension team. He is warm-hearted, supportive and cares a lot about the juniors. He works hard and takes on the job given to him with great responsibility. We will miss you ❤<br>",
+                "text": "He is the multi talented star of the suspension team. He is warm-hearted, supportive and cares a lot about the juniors. He works hard and takes on the job given to him with great responsibility. We will miss you and we will remember you ❤<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3376,7 +3376,7 @@
                 "title": "Sooraj S",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "From Steering theories to Career advice, he's always been a guide to us. He always keeps his cool and say \"Enthan Chengayi\" which always got the work done instantaneously. We will miss your late night career advices .We will miss you ❤",
+                "text": "From Steering theories to Career advice, he's always been a guide to us. He always keeps his cool and say \"Enthan Chengayi\" which always got the work done instantaneously. We will miss your late night career advices .We will miss you and we will remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3394,7 +3394,7 @@
                 "title": "Pranjal S",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "A pillar of support, you showed us what hardwork means. You are dedicated to everything you do, and help us before we ask you to. &nbsp;Nothing compares to your brotherly love. We will miss you ❤",
+                "text": "A pillar of support, you showed us what hardwork means. You are dedicated to everything you do, and help us before we ask you to. &nbsp;Nothing compares to your brotherly love. We will miss you and remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               },
@@ -3412,25 +3412,7 @@
                 "title": "Jothys Shaji",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "You showed us what hardwork means. You are dedicated to everything you do, and help us before we ask you to.  Nothing compares to your brotherly love. Thankyou for being there for us, thankyou for being everything you are. We will miss you ❤",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.7"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-5024-2000x1123.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "Mithun Manog",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Your passion inspired us, and your words kept us going. You went above and beyond the call of duty to help us through everything. \"Scene dark aayal pinne onnum nokanda, nammku set aakam\" , the words that kept us going, your optimism and the chill attitude made you one of a kind. Your spirit kept us moving. Thankyou for being there for us, thankyou for being everything you are. We will miss you ❤",
+                "text": "You showed us what hardwork means. You are dedicated to everything you do, and help us before we ask you to.  Nothing compares to your brotherly love. Thankyou for being there for us, thankyou for being everything you are. We will miss you and remember you ❤",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7"
               }
